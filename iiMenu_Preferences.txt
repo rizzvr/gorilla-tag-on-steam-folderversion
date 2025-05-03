@@ -1,0 +1,7 @@
+Accept TOS;;Ghost <color=grey>[</color><color=green>A</color><color=grey>]</color>;;Auto T Pose <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Exit Favorite Mods;;Search
+0;;3;;1;;2;;0;;0;;0;;1;;0;;1;;1000;;2;;0;;0;;5;;Change Menu Theme;;0;;4;;0;;0;;0;;-31;;0;;3;;0;;0;;2;;0;;0;;0
+1
+21
+0
+A~~B~~X~~Y~~LG~~RG~~LT~~RT~~LJ~~RJ
